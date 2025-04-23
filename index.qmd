@@ -44,8 +44,8 @@ Co-organizers for **`2024-25`** include:
 
 # 2024-25 Schedule
 
--   Sept 2025: satuRday with R-Ladies: R for beginneRs
--   Nov 2025: Introduction to Positron with **M. Kathleen Caulfield**
+-   Sept 2024: satuRday with R-Ladies: R for beginneRs
+-   Nov 2024: Introduction to Positron with **M. Kathleen Caulfield**
 -   Feb 2025: R vs. Python for Data Analytics with **Ebuwa Evbuoma-Fike**
 -   **`April 2025:`** Git and Github for R Users with **Nicola Rennie**
 -   May 2025: Coffee and Conversation at the Webster Groves Library (In-person)
